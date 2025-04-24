@@ -27,7 +27,7 @@ Edit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/random-text-generator.git
+   git clone https://github.com/KHYATIRAJ03
    cd random-text-generator
 Create a virtual environment (optional but recommended)
 
